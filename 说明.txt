@@ -3,3 +3,4 @@ FragmentTest  onCreateView(LayoutInflater, ViewGroup,Bundle)´´½¨¸ÃFragmentµÄÊÓÍ
 Fragment02 activityºÍfragment¼äÊı¾İ·ÃÎÊ
 
 Fragment03   FragmentÓëËüËùÒÀ¸½µÄactivityµÄÍ¨ĞÅ   £¨×¢£º±àÂëÎŞ·¨ÔËĞĞ£©
+ 
