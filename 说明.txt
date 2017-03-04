@@ -1,3 +1,5 @@
 FragmentTest  onCreateView(LayoutInflater, ViewGroup,Bundle)创建该Fragment的视图
 
 Fragment02 activity和fragment间数据访问
+
+Fragment03   Fragment与它所依附的activity的通信   （注：编码无法运行）
